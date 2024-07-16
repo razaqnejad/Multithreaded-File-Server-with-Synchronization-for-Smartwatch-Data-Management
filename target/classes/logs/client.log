@@ -1,0 +1,6 @@
+Jul 14, 2024 1:04:08 AM com.project.FileServerProject.WatchClient sendMessage
+INFO: Sent: 3G*1234567890*POWEROFF
+Jul 14, 2024 1:04:08 AM com.project.FileServerProject.WatchClient sendMessage
+INFO: Sent: 3G*1234567890*HEALTH*80,120,80
+Jul 14, 2024 1:04:08 AM com.project.FileServerProject.WatchClient sendMessage
+INFO: Sent: 3G*1234567890*FIND
