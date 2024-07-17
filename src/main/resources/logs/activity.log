@@ -1,0 +1,156 @@
+Request: TEST MESSAGE
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 1!
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 2!
+Response: Invalid command format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: READ readfile2.txt
+Response: Invalid command format
+
+Request: TEST MESSAGE
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 1!
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 2!
+Response: Invalid command format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: READ readfile2.txt
+Response: Invalid command format
+
+Request: TEST MESSAGE
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 1!
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 2!
+Response: Invalid command format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: READ readfile2.txt
+Response: Invalid command format
+
+Request: TEST MESSAGE
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 1!
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 2!
+Response: Invalid command format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: READ readfile2.txt
+Response: Invalid command format
+
+Request: 3G*1122334455*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: 3G*1122334455*POWEROFF
+Response: Power off command sent to IMEI: 1122334455
+
+Request: 3G*1122334455*UD*35.6892,51.3890
+Response: Location data received
+
+Request: 3G*1122334455*FIND
+Response: Find command sent to IMEI: 1122334455
+
+Request: TEST MESSAGE
+Response: Invalid command format
+
+Request: 3G*9988776655*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: 3G*9988776655*POWEROFF
+Response: Power off command sent to IMEI: 9988776655
+
+Request: 3G*9988776655*FIND
+Response: Find command sent to IMEI: 9988776655
+
+Request: 3G*9988776655*UD*35.6892,51.3890
+Response: Location data received
+
+Request: WRITE writefile1.txt Hello from client 1!
+Response: Invalid command format
+
+Request: WRITE writefile1.txt Hello from client 2!
+Response: Invalid command format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: 3G*1234567890*POWEROFF
+Response: Power off command sent to IMEI: 1234567890
+
+Request: 3G*1234567890*FIND
+Response: Find command sent to IMEI: 1234567890
+
+Request: 3G*1234567890*UD*35.6892,51.3890
+Response: Location data received
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: 3G*1234567890*HEALTH*80,120,80
+Response: Invalid health data format
+
+Request: READ readfile1.txt
+Response: Invalid command format
+
+Request: READ readfile2.txt
+Response: Invalid command format
+
